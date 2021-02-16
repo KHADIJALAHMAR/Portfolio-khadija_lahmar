@@ -34,7 +34,7 @@ body {
     margin-left: 40px;
 }
 .heroheader {
-   background-image: url('/img/mmmmmm.jpg');
+   background-image: url('../img/mmmmmm.jpg');
    background-repeat: no-repeat;
    height:900PX;
    background-size: cover;
